@@ -1,0 +1,1 @@
+Project where students can try using simple task manager, preparing test cases and testing.
